@@ -9,6 +9,7 @@
     <packaging>pom</packaging> <modules>
     <module>exp01</module>
     <module>exp02</module>
+    <module>exp03</module>
 </modules>
 
     <dependencies>

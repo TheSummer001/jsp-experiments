@@ -14,6 +14,7 @@
     <module>exp05</module>
     <module>exp06</module>
     <module>exp07</module>
+    <module>exp08</module>
 </modules>
 
     <dependencies>
